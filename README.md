@@ -29,5 +29,5 @@ La página presenta la siguiente información:
 - Estilo responsivo básico sin media queries.
 - Tipografía personalizada desde Google Fonts (`Ubuntu`).
 
-## 📁 Estructura del proyecto
+
 
